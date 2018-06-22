@@ -1,0 +1,1 @@
+curl -H "type: join_game" -H "game_name:name131" -H "longitude:1" -H "latitude:2" -H "user_name:username6" -X GET 'http://localhost:5000/'
